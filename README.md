@@ -12,6 +12,15 @@ The homeworks (HW) were written assignments and coding projects of the class (ea
 - HW4
   - Clustering and PCA
 
+# Structure
+
+Each HW directory has: 
+- `0* Homework 2025.pdf` - description of the homework
+- `G114_report.pdf` - answers and analysis asked
+- `G114_notebook.ipynb` - notebook used to create and analyse the model
+- `*.csv` - data used to train the model and conduct the analysis of real world uses
+- several images created while analysing the performance and other aspects of the model
+
 # Technologies
 
 - [Python](https://www.python.org/downloads/)
